@@ -145,6 +145,5 @@ If you find any bugs or have feature requests, please create an issue in the Git
 
 ---
 
-Made with ❤️ by the FinTrack Team
 
 The url: https://glittery-boba-91e69a.netlify.app/ 
